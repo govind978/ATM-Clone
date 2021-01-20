@@ -18,7 +18,7 @@ public class dbConnection {
    static public Connection getConnect(){
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
-          con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe" , "system" ,   "KrishnaJi798");
+          con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe" , "system" ,   "XYZ");
         } catch (Exception e) {
             e.printStackTrace();
         }

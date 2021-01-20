@@ -1037,7 +1037,7 @@ public class main_screen extends javax.swing.JFrame {
 
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("singlagovind865@gmail.com", "KrishnaJi798");
+                return new PasswordAuthentication("singlagovind865@gmail.com", "XYZ");
 
             }
 
